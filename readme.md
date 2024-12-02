@@ -8,4 +8,4 @@ This is the respository for my books and reservations project
 
 - Uses [alex edwards SCS](github.com/alexedwards/scs/v2) session management
 
-- Uses [nosurf](github.com/justinas/nosurf)
+- Uses [nosurf](github.com/justinas/nosurf).
